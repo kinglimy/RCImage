@@ -1,0 +1,10 @@
+D:\Wilson\图片存数据库项目\solution\RCImage\RCImage\FileDeleteConsole\bin\Release\FileDeleteConsole.exe
+D:\Wilson\图片存数据库项目\solution\RCImage\RCImage\FileDeleteConsole\bin\Release\FileDeleteConsole.pdb
+D:\Wilson\图片存数据库项目\solution\RCImage\RCImage\FileDeleteConsole\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Wilson\图片存数据库项目\solution\RCImage\RCImage\FileDeleteConsole\obj\x86\Release\FileDeleteConsole.exe
+D:\Wilson\图片存数据库项目\solution\RCImage\RCImage\FileDeleteConsole\obj\x86\Release\FileDeleteConsole.pdb
+D:\Wilson\图片存数据库项目\solution\RCImage\RCImage - WithDataAreaID\FileDeleteConsole\obj\x86\Release\FileDeleteConsole.exe
+D:\Wilson\图片存数据库项目\solution\RCImage\RCImage - WithDataAreaID\FileDeleteConsole\obj\x86\Release\FileDeleteConsole.pdb
+D:\Wilson\图片存数据库项目\solution\RCImage\RCImage - WithDataAreaID\FileDeleteConsole\bin\Release\FileDeleteConsole.exe
+D:\Wilson\图片存数据库项目\solution\RCImage\RCImage - WithDataAreaID\FileDeleteConsole\bin\Release\FileDeleteConsole.pdb
+D:\Wilson\图片存数据库项目\solution\RCImage\RCImage - WithDataAreaID\FileDeleteConsole\obj\x86\Release\ResolveAssemblyReference.cache

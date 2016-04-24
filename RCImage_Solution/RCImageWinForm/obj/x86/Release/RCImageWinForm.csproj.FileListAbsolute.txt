@@ -1,0 +1,20 @@
+D:\Wilson\图片存数据库项目\solution\RCImage\RCImage\RCImageWinForm\bin\Release\RCImageWinForm.exe.config
+D:\Wilson\图片存数据库项目\solution\RCImage\RCImage\RCImageWinForm\bin\Release\RCImageWinForm.exe
+D:\Wilson\图片存数据库项目\solution\RCImage\RCImage\RCImageWinForm\bin\Release\RCImageWinForm.pdb
+D:\Wilson\图片存数据库项目\solution\RCImage\RCImage\RCImageWinForm\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Wilson\图片存数据库项目\solution\RCImage\RCImage\RCImageWinForm\obj\x86\Release\RCImageWinForm.Form1.resources
+D:\Wilson\图片存数据库项目\solution\RCImage\RCImage\RCImageWinForm\obj\x86\Release\RCImageWinForm.Properties.Resources.resources
+D:\Wilson\图片存数据库项目\solution\RCImage\RCImage\RCImageWinForm\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Wilson\图片存数据库项目\solution\RCImage\RCImage\RCImageWinForm\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Wilson\图片存数据库项目\solution\RCImage\RCImage\RCImageWinForm\obj\x86\Release\RCImageWinForm.exe
+D:\Wilson\图片存数据库项目\solution\RCImage\RCImage\RCImageWinForm\obj\x86\Release\RCImageWinForm.pdb
+D:\Wilson\图片存数据库项目\solution\RCImage\RCImage - WithDataAreaID\RCImageWinForm\bin\Release\RCImageWinForm.exe.config
+D:\Wilson\图片存数据库项目\solution\RCImage\RCImage - WithDataAreaID\RCImageWinForm\obj\x86\Release\RCImageWinForm.exe
+D:\Wilson\图片存数据库项目\solution\RCImage\RCImage - WithDataAreaID\RCImageWinForm\obj\x86\Release\RCImageWinForm.pdb
+D:\Wilson\图片存数据库项目\solution\RCImage\RCImage - WithDataAreaID\RCImageWinForm\bin\Release\RCImageWinForm.exe
+D:\Wilson\图片存数据库项目\solution\RCImage\RCImage - WithDataAreaID\RCImageWinForm\bin\Release\RCImageWinForm.pdb
+D:\Wilson\图片存数据库项目\solution\RCImage\RCImage - WithDataAreaID\RCImageWinForm\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Wilson\图片存数据库项目\solution\RCImage\RCImage - WithDataAreaID\RCImageWinForm\obj\x86\Release\RCImageWinForm.Form1.resources
+D:\Wilson\图片存数据库项目\solution\RCImage\RCImage - WithDataAreaID\RCImageWinForm\obj\x86\Release\RCImageWinForm.Properties.Resources.resources
+D:\Wilson\图片存数据库项目\solution\RCImage\RCImage - WithDataAreaID\RCImageWinForm\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Wilson\图片存数据库项目\solution\RCImage\RCImage - WithDataAreaID\RCImageWinForm\obj\x86\Release\GenerateResource.write.1.tlog

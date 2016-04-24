@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RCImageWinForm", "RCImageWinForm\RCImageWinForm.csproj", "{B2C0AAC0-1A71-4820-AD36-C3BA154669ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileDeleteConsole", "FileDeleteConsole\FileDeleteConsole.csproj", "{E910FDCE-D589-49E0-9B12-543BAD85C08D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2C0AAC0-1A71-4820-AD36-C3BA154669ED}.Debug|x86.ActiveCfg = Debug|x86
+		{B2C0AAC0-1A71-4820-AD36-C3BA154669ED}.Debug|x86.Build.0 = Debug|x86
+		{B2C0AAC0-1A71-4820-AD36-C3BA154669ED}.Release|x86.ActiveCfg = Release|x86
+		{B2C0AAC0-1A71-4820-AD36-C3BA154669ED}.Release|x86.Build.0 = Release|x86
+		{E910FDCE-D589-49E0-9B12-543BAD85C08D}.Debug|x86.ActiveCfg = Debug|x86
+		{E910FDCE-D589-49E0-9B12-543BAD85C08D}.Debug|x86.Build.0 = Debug|x86
+		{E910FDCE-D589-49E0-9B12-543BAD85C08D}.Release|x86.ActiveCfg = Release|x86
+		{E910FDCE-D589-49E0-9B12-543BAD85C08D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

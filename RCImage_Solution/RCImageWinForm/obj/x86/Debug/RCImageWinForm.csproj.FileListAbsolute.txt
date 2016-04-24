@@ -1,0 +1,10 @@
+D:\Wilson\图片存数据库项目\solution\RCImage\RCImage\RCImageWinForm\bin\Debug\RCImageWinForm.exe
+D:\Wilson\图片存数据库项目\solution\RCImage\RCImage\RCImageWinForm\bin\Debug\RCImageWinForm.pdb
+D:\Wilson\图片存数据库项目\solution\RCImage\RCImage\RCImageWinForm\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Wilson\图片存数据库项目\solution\RCImage\RCImage\RCImageWinForm\obj\x86\Debug\RCImageWinForm.Form1.resources
+D:\Wilson\图片存数据库项目\solution\RCImage\RCImage\RCImageWinForm\obj\x86\Debug\RCImageWinForm.Properties.Resources.resources
+D:\Wilson\图片存数据库项目\solution\RCImage\RCImage\RCImageWinForm\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Wilson\图片存数据库项目\solution\RCImage\RCImage\RCImageWinForm\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Wilson\图片存数据库项目\solution\RCImage\RCImage\RCImageWinForm\obj\x86\Debug\RCImageWinForm.exe
+D:\Wilson\图片存数据库项目\solution\RCImage\RCImage\RCImageWinForm\obj\x86\Debug\RCImageWinForm.pdb
+D:\Wilson\图片存数据库项目\solution\RCImage\RCImage\RCImageWinForm\bin\Debug\RCImageWinForm.exe.config
